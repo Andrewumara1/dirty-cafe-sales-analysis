@@ -255,7 +255,7 @@ The original dataset is available through Kaggle.
 
 ## 👨‍💻 Author
 
-**KeDataLab**
+**Andrew Umara**
 
 GitHub: https://github.com/Andrewumara1
 
